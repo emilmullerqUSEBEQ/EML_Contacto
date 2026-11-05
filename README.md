@@ -1,1 +1,1 @@
-[download]({{ site.baseurl }}{% link Contacto.vcf %})
+[download](/Contacto.vcf)
